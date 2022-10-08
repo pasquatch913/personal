@@ -1,19 +1,17 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: MoneyLion
+  position: Lead Backend Engineer
+  duration: Jan 2020 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Recognized as leader and top performer by three promotions to Senior, Team Lead, and Lead Engineer levels</li><li>Rewrote Checking Account product using Spring Boot and Axon Framework to integrate with new banking provider and achieve higher levels of scalability and customer satisfaction</li><li>Identified opportunity for optimizations on premium "turbo" transactions and swiftly implemented them to protect customers from a confusing user experience</li><li>Led initiative to track code quality and test coverage with SonarQube, resulting in an increase of test coverage from ~25% to >80% across all services and a buy-in from all developers to write tests</li><li>Designed a serverless architecture for an integration with Plaid to save money and deliver higher availability while maintaining developer experience</li><li>Introduced a pattern for blameless retrospective meetings on my team before sharing the structure with the greater engineering organization</li><li>Developed a set of shared libraries to ensure that the code within the libraries can be tested, packaged, and consumed independently across the Banking team's many microservices</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
+- company: Royal Bank of Canada
+  position: Software Engineer
+  duration: Mar 2018 &mdash; Jan 2020
+  summary: <ul class="resume-item-list"><li>Built and supported a system of ~25 Spring Boot Java microservices for automating infrastructure and security within RBC</li><li>Managed Jenkins CI/CD pipeline to test and deploy to container orchestration platform in an efficient and scalable manner</li><li>Expanded client on-boarding and incident management process to enable platform consumer growth to over 50 internal teams</li><li>Assisted with implementation and support of Databases as a Service project to provide MariaDB run on Kubernetes to developer teams</li><li>Led team retrospective and weekly Kanban project grooming meetings</li></ul>
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Innovid
+  position: Sr. Tier 2 Technical Support Engineer
+  duration: May 2015  &mdash; Feb 2018
+  summary: <ul class="resume-item-list"><li>Repeatedly recognized as a leader and top performer with two promotions from Junior to Senior level</li><li>Resolved complex client issues related to ad serving on publisher websites and proprietary application defects</li><li>Trained and advised junior teammates throughout support ticket process and led initiative to introduce Knowledge Centered Support practices across the team</li><li>Developed custom MySQL reports to fulfill client requests and provide data to the internal Analytics team</li><li>Effectively communicated and collaborated with colleagues and clients with various levels of technical backgrounds to manage critical projects</li></ul>
